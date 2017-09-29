@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  margin: 0 auto;
+  background-color: #19B5FE; }
+
+h1 {
+  color: white;
+  text-align: center;
+  margin: 50px; }
+
+.joke {
+  margin-top: 100px;
+  height: 50vh; }
+  .joke p {
+    font-family: "OpenSans", sans-serif;
+    margin-top: 75px;
+    font-size: 20px; }
+
+.footer {
+  background-color: #674172;
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
